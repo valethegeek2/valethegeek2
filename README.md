@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Industrial Automation Bsc
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me velchevvalentine@gmail.com
-
+Any comment gratefully accepted, have in mind im still learning.Thank you!! Have fun coding!!
 <!---
 valethegeek2/valethegeek2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
