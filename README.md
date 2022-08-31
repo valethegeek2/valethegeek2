@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valethegeek2
 - 👀 I’m interested in Programming and Operating Systems
-- 🌱 I’m currently learning Industrial Automation Bsc
+- 🌱 I’m currently studying software engineer
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me velchevvalentine@gmail.com
 Any comment gratefully accepted, have in mind im still learning.Thank you!! Have fun coding!!
